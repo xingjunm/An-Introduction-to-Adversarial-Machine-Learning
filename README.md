@@ -3,9 +3,9 @@ This is the repository for tutorial on Adversarial Machine Learning at [The 32nd
 
 **Presentors**: 
 
-* [Xingjun Ma](http://xingjunma.com/) 
+* [Xingjun Ma](http://xingjunma.com/) (University of Melbourne)
 
-* [Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/)
+* [Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/) (University of Melbourne)
 
 **Slides**: [GoogleDrive]()
 
