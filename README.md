@@ -15,7 +15,10 @@ The crafted adversarial images (bottom) by the Fast Grident Sign Method will loo
 <img src="images/mnist_FGSM_clean_advs.png" width="800">
 
 ## Prerequisites
-Python (3.6.4)
-Keras (2.2.4)
-numpy
-[cleverhans (3.0.1)](https://github.com/tensorflow/cleverhans)
+* Python (3.6.4)
+
+* Keras (2.2.4)
+
+* numpy
+
+*[cleverhans (3.0.1)](https://github.com/tensorflow/cleverhans)
