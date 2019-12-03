@@ -9,4 +9,4 @@ This is the repository for tutorial on Adversarial Machine Learning at [The 32nd
 
 **Slides**: [GoogleDrive]()
 
-**Code and demo**: [jupyter notebook](step-by-step demo for crafting adversarial examples on MNIST.ipynb)
+**A step-by-step demo for crafting adversarial examples on MNIST**: [jupyter notebook](demo__adversarial_examples_MNIST.ipynb)
