@@ -16,9 +16,6 @@ The crafted adversarial images (bottom) by the Fast Grident Sign Method will loo
 
 ## Prerequisites
 * Python (3.6.4)
-
 * Keras (2.2.4)
-
 * numpy
-
-*[cleverhans (3.0.1)](https://github.com/tensorflow/cleverhans)
+* [cleverhans (3.0.1)](https://github.com/tensorflow/cleverhans)
