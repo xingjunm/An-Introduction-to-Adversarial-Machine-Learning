@@ -7,7 +7,7 @@ This is the repository for tutorial on Adversarial Machine Learning at [The 32nd
 
 * [Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/) (University of Melbourne)
 
-**Slides**: [GoogleDrive](https://drive.google.com/drive/folders/1sbQ149aZL3Ia7Kg00gnB5MpvXTMkqL4q?usp=sharing)
+**Slides**: [GoogleDrive](https://drive.google.com/open?id=1zAfhTNn643IWAS2Ar-ZXjMQUW7jVmWno)
 
 **A step-by-step demo for crafting adversarial examples on MNIST**: [jupyter notebook](demo_adversarial_examples_MNIST.ipynb)
 
