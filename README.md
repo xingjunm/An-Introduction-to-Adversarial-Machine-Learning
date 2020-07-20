@@ -1,4 +1,4 @@
-# AI2019 Tutorial on Adversarial Machine Learning
+# Tutorial on Adversarial Machine Learning for AI2019
 This is the repository for tutorial on Adversarial Machine Learning at [The 32nd Australasian Joint Conference on Artificial Intelligence, 2-5 Dec 2019 Adelaide Australia](http://nugget.unisa.edu.au/AI2019/index.php#)
 
 **Presentors**: 
